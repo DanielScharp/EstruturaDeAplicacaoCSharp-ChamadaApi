@@ -53,3 +53,13 @@ C:\repositorios\ChamadaApi\ChamadaApi.Api\obj\Debug\net8.0\refint\ChamadaApi.Api
 C:\repositorios\ChamadaApi\ChamadaApi.Api\obj\Debug\net8.0\ChamadaApi.Api.pdb
 C:\repositorios\ChamadaApi\ChamadaApi.Api\obj\Debug\net8.0\ChamadaApi.Api.genruntimeconfig.cache
 C:\repositorios\ChamadaApi\ChamadaApi.Api\obj\Debug\net8.0\ref\ChamadaApi.Api.dll
+C:\repositorios\ChamadaApi\ChamadaApi.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\repositorios\ChamadaApi\ChamadaApi.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\repositorios\ChamadaApi\ChamadaApi.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\repositorios\ChamadaApi\ChamadaApi.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\repositorios\ChamadaApi\ChamadaApi.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\repositorios\ChamadaApi\ChamadaApi.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\repositorios\ChamadaApi\ChamadaApi.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\repositorios\ChamadaApi\ChamadaApi.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\repositorios\ChamadaApi\ChamadaApi.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\repositorios\ChamadaApi\ChamadaApi.Api\obj\Debug\net8.0\ChamadaApi.Api.sourcelink.json

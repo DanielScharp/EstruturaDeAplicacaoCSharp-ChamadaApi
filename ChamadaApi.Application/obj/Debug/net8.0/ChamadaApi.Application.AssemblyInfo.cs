@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChamadaApi.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0decd007f0e03c92fe68189b8332e53b3d3a4923")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChamadaApi.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChamadaApi.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

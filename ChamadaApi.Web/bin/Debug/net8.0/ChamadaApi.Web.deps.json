@@ -9,7 +9,8 @@
       "ChamadaApi.Web/1.0.0": {
         "dependencies": {
           "ChamadaApi.Domain": "1.0.0",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.7"
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.7",
+          "Newtonsoft.Json": "13.0.3"
         },
         "runtime": {
           "ChamadaApi.Web.dll": {}

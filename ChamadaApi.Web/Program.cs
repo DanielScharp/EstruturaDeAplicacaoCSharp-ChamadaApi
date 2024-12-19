@@ -1,9 +1,22 @@
+using ChamadaApi.Web;
 using ChamadaApi.Web.services;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddHttpContextAccessor();
+builder.Services.AddHttpClient();
+
+//Add cookie configurarion
+builder.Services.AddAuthentication("CookieAuthentication")
+    .AddCookie("CookieAuthentication", config => {
+        config.Cookie.Name = "TokenAdmin";
+        config.LoginPath = "/Login/Index"; //Autorize
+        config.AccessDeniedPath = "/Login/AcessoNegado"; //Role
+    });
+
+
 builder.Services.AddScoped<IMyApiService, MyApiService>();
 
 builder.Services.AddHttpClient("MyApiClient", client => {
@@ -12,6 +25,10 @@ builder.Services.AddHttpClient("MyApiClient", client => {
     // Adicione outros headers se necessário, como autenticação
 });
 var app = builder.Build();
+
+//Starts HttpContextAccessor Helper to use a static class
+//https://www.appsloveworld.com/csharp/100/4/access-the-current-httpcontext-in-asp-net-core
+HttpContextAccessorHelper.Initialize(app.Services.GetRequiredService<IHttpContextAccessor>());
 
 // Configure the HTTP request pipeline.
 if(!app.Environment.IsDevelopment())

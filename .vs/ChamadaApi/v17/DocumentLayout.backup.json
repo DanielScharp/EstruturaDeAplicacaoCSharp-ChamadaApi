@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\repositorios\\ChamadaApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{79366779-A023-4C8C-8599-3FE21BACF616}|ChamadaApi.Web\\ChamadaApi.Web.csproj|c:\\repositorios\\chamadaapi\\chamadaapi.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79366779-A023-4C8C-8599-3FE21BACF616}|ChamadaApi.Web\\ChamadaApi.Web.csproj|solutionrelative:chamadaapi.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79366779-A023-4C8C-8599-3FE21BACF616}|ChamadaApi.Web\\ChamadaApi.Web.csproj|c:\\repositorios\\chamadaapi\\chamadaapi.web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79366779-A023-4C8C-8599-3FE21BACF616}|ChamadaApi.Web\\ChamadaApi.Web.csproj|solutionrelative:chamadaapi.web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{79366779-A023-4C8C-8599-3FE21BACF616}|ChamadaApi.Web\\ChamadaApi.Web.csproj|c:\\repositorios\\chamadaapi\\chamadaapi.web\\services\\myapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79366779-A023-4C8C-8599-3FE21BACF616}|ChamadaApi.Web\\ChamadaApi.Web.csproj|solutionrelative:chamadaapi.web\\services\\myapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,36 +19,12 @@
       "RelativeMoniker": "D:0:0:{79366779-A023-4C8C-8599-3FE21BACF616}|ChamadaApi.Web\\ChamadaApi.Web.csproj|solutionrelative:chamadaapi.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79366779-A023-4C8C-8599-3FE21BACF616}|ChamadaApi.Web\\ChamadaApi.Web.csproj|c:\\repositorios\\chamadaapi\\chamadaapi.web\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79366779-A023-4C8C-8599-3FE21BACF616}|ChamadaApi.Web\\ChamadaApi.Web.csproj|solutionrelative:chamadaapi.web\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CBA96A6-FEC8-4C2C-8B4E-AACA6FAC730F}|ChamadaApi.Api\\ChamadaApi.Api.csproj|c:\\repositorios\\chamadaapi\\chamadaapi.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CBA96A6-FEC8-4C2C-8B4E-AACA6FAC730F}|ChamadaApi.Api\\ChamadaApi.Api.csproj|solutionrelative:chamadaapi.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79366779-A023-4C8C-8599-3FE21BACF616}|ChamadaApi.Web\\ChamadaApi.Web.csproj|c:\\repositorios\\chamadaapi\\chamadaapi.web\\models\\apirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79366779-A023-4C8C-8599-3FE21BACF616}|ChamadaApi.Web\\ChamadaApi.Web.csproj|solutionrelative:chamadaapi.web\\models\\apirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79366779-A023-4C8C-8599-3FE21BACF616}|ChamadaApi.Web\\ChamadaApi.Web.csproj|c:\\repositorios\\chamadaapi\\chamadaapi.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{79366779-A023-4C8C-8599-3FE21BACF616}|ChamadaApi.Web\\ChamadaApi.Web.csproj|solutionrelative:chamadaapi.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79366779-A023-4C8C-8599-3FE21BACF616}|ChamadaApi.Web\\ChamadaApi.Web.csproj|c:\\repositorios\\chamadaapi\\chamadaapi.web\\views\\home\\leilao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{79366779-A023-4C8C-8599-3FE21BACF616}|ChamadaApi.Web\\ChamadaApi.Web.csproj|solutionrelative:chamadaapi.web\\views\\home\\leilao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E411F126-E8C4-43C5-9CB1-85F6D10C9646}|ChamadaApi.Domain\\ChamadaApi.Domain.csproj|c:\\repositorios\\chamadaapi\\chamadaapi.domain\\leilao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E411F126-E8C4-43C5-9CB1-85F6D10C9646}|ChamadaApi.Domain\\ChamadaApi.Domain.csproj|solutionrelative:chamadaapi.domain\\leilao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CBA96A6-FEC8-4C2C-8B4E-AACA6FAC730F}|ChamadaApi.Api\\ChamadaApi.Api.csproj|c:\\repositorios\\chamadaapi\\chamadaapi.api\\controllers\\leiloescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CBA96A6-FEC8-4C2C-8B4E-AACA6FAC730F}|ChamadaApi.Api\\ChamadaApi.Api.csproj|solutionrelative:chamadaapi.api\\controllers\\leiloescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7EB22A3-B742-4BD9-B8EF-51169D37C22B}|ChamadaApi.Database\\ChamadaApi.Database.csproj|c:\\repositorios\\chamadaapi\\chamadaapi.database\\mysql\\leiloesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7EB22A3-B742-4BD9-B8EF-51169D37C22B}|ChamadaApi.Database\\ChamadaApi.Database.csproj|solutionrelative:chamadaapi.database\\mysql\\leiloesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8BCF40C-A55B-4302-8ACA-01033A7E0942}|ChamadaApi.Application\\ChamadaApi.Application.csproj|c:\\repositorios\\chamadaapi\\chamadaapi.application\\leiloesapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8BCF40C-A55B-4302-8ACA-01033A7E0942}|ChamadaApi.Application\\ChamadaApi.Application.csproj|solutionrelative:chamadaapi.application\\leiloesapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79366779-A023-4C8C-8599-3FE21BACF616}|ChamadaApi.Web\\ChamadaApi.Web.csproj|c:\\repositorios\\chamadaapi\\chamadaapi.web\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79366779-A023-4C8C-8599-3FE21BACF616}|ChamadaApi.Web\\ChamadaApi.Web.csproj|solutionrelative:chamadaapi.web\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\repositorios\\ChamadaApi\\ChamadaApi.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ChamadaApi.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\repositorios\\ChamadaApi\\ChamadaApi.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ChamadaApi.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T17:15:27.998Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
@@ -83,125 +80,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ApiResponse.cs",
-              "DocumentMoniker": "C:\\repositorios\\ChamadaApi\\ChamadaApi.Web\\Models\\ApiResponse.cs",
-              "RelativeDocumentMoniker": "ChamadaApi.Web\\Models\\ApiResponse.cs",
-              "ToolTip": "C:\\repositorios\\ChamadaApi\\ChamadaApi.Web\\Models\\ApiResponse.cs",
-              "RelativeToolTip": "ChamadaApi.Web\\Models\\ApiResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T13:42:37.001Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Leilao.cshtml",
-              "DocumentMoniker": "C:\\repositorios\\ChamadaApi\\ChamadaApi.Web\\Views\\Home\\Leilao.cshtml",
-              "RelativeDocumentMoniker": "ChamadaApi.Web\\Views\\Home\\Leilao.cshtml",
-              "ToolTip": "C:\\repositorios\\ChamadaApi\\ChamadaApi.Web\\Views\\Home\\Leilao.cshtml",
-              "RelativeToolTip": "ChamadaApi.Web\\Views\\Home\\Leilao.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T13:07:24.243Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\repositorios\\ChamadaApi\\ChamadaApi.Web\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ChamadaApi.Web\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\repositorios\\ChamadaApi\\ChamadaApi.Web\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ChamadaApi.Web\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T12:45:36.663Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LeiloesRepository.cs",
-              "DocumentMoniker": "C:\\repositorios\\ChamadaApi\\ChamadaApi.Database\\MySql\\LeiloesRepository.cs",
-              "RelativeDocumentMoniker": "ChamadaApi.Database\\MySql\\LeiloesRepository.cs",
-              "ToolTip": "C:\\repositorios\\ChamadaApi\\ChamadaApi.Database\\MySql\\LeiloesRepository.cs",
-              "RelativeToolTip": "ChamadaApi.Database\\MySql\\LeiloesRepository.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAADwv3gAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T11:52:49.081Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LeiloesApplication.cs",
-              "DocumentMoniker": "C:\\repositorios\\ChamadaApi\\ChamadaApi.Application\\LeiloesApplication.cs",
-              "RelativeDocumentMoniker": "ChamadaApi.Application\\LeiloesApplication.cs",
-              "ToolTip": "C:\\repositorios\\ChamadaApi\\ChamadaApi.Application\\LeiloesApplication.cs",
-              "RelativeToolTip": "ChamadaApi.Application\\LeiloesApplication.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAuwDAAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T11:51:00.604Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Leilao.cs",
-              "DocumentMoniker": "C:\\repositorios\\ChamadaApi\\ChamadaApi.Domain\\Leilao.cs",
-              "RelativeDocumentMoniker": "ChamadaApi.Domain\\Leilao.cs",
-              "ToolTip": "C:\\repositorios\\ChamadaApi\\ChamadaApi.Domain\\Leilao.cs",
-              "RelativeToolTip": "ChamadaApi.Domain\\Leilao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T20:34:15.383Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LeiloesController.cs",
-              "DocumentMoniker": "C:\\repositorios\\ChamadaApi\\ChamadaApi.Api\\Controllers\\LeiloesController.cs",
-              "RelativeDocumentMoniker": "ChamadaApi.Api\\Controllers\\LeiloesController.cs",
-              "ToolTip": "C:\\repositorios\\ChamadaApi\\ChamadaApi.Api\\Controllers\\LeiloesController.cs",
-              "RelativeToolTip": "ChamadaApi.Api\\Controllers\\LeiloesController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAMwCoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T20:32:27.477Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\repositorios\\ChamadaApi\\ChamadaApi.Web\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ChamadaApi.Web\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\repositorios\\ChamadaApi\\ChamadaApi.Web\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ChamadaApi.Web\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB8AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T20:04:21.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApiRequest.cs",
-              "DocumentMoniker": "C:\\repositorios\\ChamadaApi\\ChamadaApi.Web\\Models\\ApiRequest.cs",
-              "RelativeDocumentMoniker": "ChamadaApi.Web\\Models\\ApiRequest.cs",
-              "ToolTip": "C:\\repositorios\\ChamadaApi\\ChamadaApi.Web\\Models\\ApiRequest.cs",
-              "RelativeToolTip": "ChamadaApi.Web\\Models\\ApiRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T20:23:55.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "MyApiService.cs",
               "DocumentMoniker": "C:\\repositorios\\ChamadaApi\\ChamadaApi.Web\\services\\MyApiService.cs",
               "RelativeDocumentMoniker": "ChamadaApi.Web\\services\\MyApiService.cs",
               "ToolTip": "C:\\repositorios\\ChamadaApi\\ChamadaApi.Web\\services\\MyApiService.cs",
               "RelativeToolTip": "ChamadaApi.Web\\services\\MyApiService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T20:09:17.115Z",
+              "WhenOpened": "2024-12-19T17:09:57.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\repositorios\\ChamadaApi\\ChamadaApi.Web\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChamadaApi.Web\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\repositorios\\ChamadaApi\\ChamadaApi.Web\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "ChamadaApi.Web\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T17:01:23.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\repositorios\\ChamadaApi\\ChamadaApi.Api\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ChamadaApi.Api\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\repositorios\\ChamadaApi\\ChamadaApi.Api\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ChamadaApi.Api\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowGIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:56:42.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\repositorios\\ChamadaApi\\ChamadaApi.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ChamadaApi.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\repositorios\\ChamadaApi\\ChamadaApi.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ChamadaApi.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:54:18.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\repositorios\\ChamadaApi\\ChamadaApi.Web\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ChamadaApi.Web\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\repositorios\\ChamadaApi\\ChamadaApi.Web\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ChamadaApi.Web\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAwwFwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:54:13.439Z",
               "EditorCaption": ""
             }
           ]

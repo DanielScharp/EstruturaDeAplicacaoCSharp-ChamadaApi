@@ -13,3 +13,4 @@ C:\repositorios\ChamadaApi\ChamadaApi.Database\obj\Debug\net8.0\ChamadaApi.Datab
 C:\repositorios\ChamadaApi\ChamadaApi.Database\obj\Debug\net8.0\refint\ChamadaApi.Database.dll
 C:\repositorios\ChamadaApi\ChamadaApi.Database\obj\Debug\net8.0\ChamadaApi.Database.pdb
 C:\repositorios\ChamadaApi\ChamadaApi.Database\obj\Debug\net8.0\ref\ChamadaApi.Database.dll
+C:\repositorios\ChamadaApi\ChamadaApi.Database\obj\Debug\net8.0\ChamadaApi.Database.sourcelink.json

@@ -1,12 +1,14 @@
 using ChamadaApi.Domain;
 using ChamadaApi.Web.Models;
 using ChamadaApi.Web.services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using System.Diagnostics;
 
 namespace ChamadaApi.Web.Controllers
 {
+    [Authorize]
     public class HomeController :Controller
     {
         private readonly IMyApiService _apiService;

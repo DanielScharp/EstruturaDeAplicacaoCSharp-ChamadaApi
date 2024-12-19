@@ -2,11 +2,13 @@
 using ChamadaApi.Domain;
 using ChamadaApi.Database.MySql;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 
 namespace ChamadaApi.Api.Controllers
 {
     [Route("[controller]")]
     [ApiController]
+    [Authorize]
     public class LeiloesController :ControllerBase
     {
         private readonly LeiloesApplication _leiloesApplication;

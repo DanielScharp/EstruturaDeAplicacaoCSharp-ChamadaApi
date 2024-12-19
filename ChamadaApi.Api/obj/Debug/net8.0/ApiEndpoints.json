@@ -61,5 +61,31 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ChamadaApi.Api.Controllers.LoginController",
+    "Method": "In",
+    "RelativePath": "Login/Acessar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "ChamadaApi.Domain.Login",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ChamadaApi.Api.Controllers.LoginController",
+    "Method": "CheckTokenValidation",
+    "RelativePath": "Login/check-token-validation",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   }
 ]

@@ -227,3 +227,4 @@ C:\repositorios\ChamadaApi\ChamadaApi.Web\obj\Debug\net8.0\refint\ChamadaApi.Web
 C:\repositorios\ChamadaApi\ChamadaApi.Web\obj\Debug\net8.0\ChamadaApi.Web.pdb
 C:\repositorios\ChamadaApi\ChamadaApi.Web\obj\Debug\net8.0\ChamadaApi.Web.genruntimeconfig.cache
 C:\repositorios\ChamadaApi\ChamadaApi.Web\obj\Debug\net8.0\ref\ChamadaApi.Web.dll
+C:\repositorios\ChamadaApi\ChamadaApi.Web\obj\Debug\net8.0\ChamadaApi.Web.sourcelink.json

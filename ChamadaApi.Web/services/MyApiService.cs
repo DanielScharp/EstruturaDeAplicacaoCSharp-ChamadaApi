@@ -31,6 +31,12 @@ namespace ChamadaApi.Web.services
             // Cria a requisição HTTP
             var httpRequest = new HttpRequestMessage(request.Method, url);
 
+            var token = ClienteSessao.Logado.Token; // Obtém o token do cliente logado
+            if(!string.IsNullOrEmpty(token))
+            {
+                httpRequest.Headers.Authorization = new System.Net.Http.Headers.AuthenticationHeaderValue("Bearer", token);
+            }
+
             // Adiciona o corpo, se houver
             if(request.Body != null)
             {

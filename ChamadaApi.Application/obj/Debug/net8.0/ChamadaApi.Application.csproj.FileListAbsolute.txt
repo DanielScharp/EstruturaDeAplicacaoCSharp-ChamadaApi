@@ -15,3 +15,4 @@ C:\repositorios\ChamadaApi\ChamadaApi.Application\obj\Debug\net8.0\ChamadaApi.Ap
 C:\repositorios\ChamadaApi\ChamadaApi.Application\obj\Debug\net8.0\refint\ChamadaApi.Application.dll
 C:\repositorios\ChamadaApi\ChamadaApi.Application\obj\Debug\net8.0\ChamadaApi.Application.pdb
 C:\repositorios\ChamadaApi\ChamadaApi.Application\obj\Debug\net8.0\ref\ChamadaApi.Application.dll
+C:\repositorios\ChamadaApi\ChamadaApi.Application\obj\Debug\net8.0\ChamadaApi.Application.sourcelink.json

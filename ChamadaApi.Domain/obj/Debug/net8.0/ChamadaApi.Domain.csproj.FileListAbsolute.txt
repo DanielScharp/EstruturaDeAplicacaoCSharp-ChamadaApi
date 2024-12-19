@@ -9,3 +9,4 @@ C:\repositorios\ChamadaApi\ChamadaApi.Domain\obj\Debug\net8.0\ChamadaApi.Domain.
 C:\repositorios\ChamadaApi\ChamadaApi.Domain\obj\Debug\net8.0\refint\ChamadaApi.Domain.dll
 C:\repositorios\ChamadaApi\ChamadaApi.Domain\obj\Debug\net8.0\ChamadaApi.Domain.pdb
 C:\repositorios\ChamadaApi\ChamadaApi.Domain\obj\Debug\net8.0\ref\ChamadaApi.Domain.dll
+C:\repositorios\ChamadaApi\ChamadaApi.Domain\obj\Debug\net8.0\ChamadaApi.Domain.sourcelink.json
