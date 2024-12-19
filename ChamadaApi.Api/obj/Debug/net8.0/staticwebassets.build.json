@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "C7xa4JNqE3QHBpS0nMbQ6F04OWoYaKzqHKMWXDZfvVM=",
+  "Source": "ChamadaApi.Api",
+  "BasePath": "_content/ChamadaApi.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

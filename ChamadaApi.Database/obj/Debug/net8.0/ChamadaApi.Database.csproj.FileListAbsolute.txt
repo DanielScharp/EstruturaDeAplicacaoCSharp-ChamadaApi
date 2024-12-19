@@ -1,0 +1,15 @@
+C:\repositorios\ChamadaApi\ChamadaApi.Database\bin\Debug\net8.0\ChamadaApi.Database.deps.json
+C:\repositorios\ChamadaApi\ChamadaApi.Database\bin\Debug\net8.0\ChamadaApi.Database.dll
+C:\repositorios\ChamadaApi\ChamadaApi.Database\bin\Debug\net8.0\ChamadaApi.Database.pdb
+C:\repositorios\ChamadaApi\ChamadaApi.Database\bin\Debug\net8.0\ChamadaApi.Domain.dll
+C:\repositorios\ChamadaApi\ChamadaApi.Database\bin\Debug\net8.0\ChamadaApi.Domain.pdb
+C:\repositorios\ChamadaApi\ChamadaApi.Database\obj\Debug\net8.0\ChamadaApi.Database.csproj.AssemblyReference.cache
+C:\repositorios\ChamadaApi\ChamadaApi.Database\obj\Debug\net8.0\ChamadaApi.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorios\ChamadaApi\ChamadaApi.Database\obj\Debug\net8.0\ChamadaApi.Database.AssemblyInfoInputs.cache
+C:\repositorios\ChamadaApi\ChamadaApi.Database\obj\Debug\net8.0\ChamadaApi.Database.AssemblyInfo.cs
+C:\repositorios\ChamadaApi\ChamadaApi.Database\obj\Debug\net8.0\ChamadaApi.Database.csproj.CoreCompileInputs.cache
+C:\repositorios\ChamadaApi\ChamadaApi.Database\obj\Debug\net8.0\ChamadaA.47735E14.Up2Date
+C:\repositorios\ChamadaApi\ChamadaApi.Database\obj\Debug\net8.0\ChamadaApi.Database.dll
+C:\repositorios\ChamadaApi\ChamadaApi.Database\obj\Debug\net8.0\refint\ChamadaApi.Database.dll
+C:\repositorios\ChamadaApi\ChamadaApi.Database\obj\Debug\net8.0\ChamadaApi.Database.pdb
+C:\repositorios\ChamadaApi\ChamadaApi.Database\obj\Debug\net8.0\ref\ChamadaApi.Database.dll

@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "ChamadaApi.Api.Controllers.LeiloesController",
+    "Method": "AlterDescricaoLeilaoAsync",
+    "RelativePath": "Leiloes/Alterar-descricao",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "leilao",
+        "Type": "ChamadaApi.Domain.Leilao",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ChamadaApi.Api.Controllers.LeiloesController",
+    "Method": "GetLeiloesAsync",
+    "RelativePath": "Leiloes/Listar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoriaId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "valor",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "vdd",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "leilao",
+        "Type": "ChamadaApi.Domain.Leilao",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ChamadaApi.Api.Controllers.LeiloesController",
+    "Method": "GetLeilaoAsync",
+    "RelativePath": "Leiloes/Retornar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
